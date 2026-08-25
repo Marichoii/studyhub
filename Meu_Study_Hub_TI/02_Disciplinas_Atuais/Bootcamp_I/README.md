@@ -1,3 +1,3 @@
 # Bootcamp I
 
-Organizacao de atividades, anotacoes, resumos e projetos da disciplina Bootcamp I.
+Organizacao de anotacoes, projetos, certificados, entregas e resumos da disciplina Bootcamp I.
