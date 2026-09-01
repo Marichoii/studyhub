@@ -19,7 +19,7 @@ Esta pasta reune os materiais que poderao ser usados na apresentacao publica da 
 ## Proximos Passos
 
 - [x] Inserir link publico do GitHub pessoal.
-- [ ] Inserir link publico do repositorio Study Hub.
+- [x] Inserir link publico do repositorio Study Hub.
 - [ ] Inserir link do pitch no YouTube.
 - [ ] Selecionar projetos mais fortes para destaque.
 - [ ] Adicionar certificados e badges relevantes.

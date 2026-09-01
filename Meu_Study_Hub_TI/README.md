@@ -79,7 +79,7 @@ Meu_Study_Hub_TI/
 Preencher estes links apenas depois de publicar os materiais e testar o acesso em aba anonima:
 
 - **Documento base no Google Docs:** `[inserir link publico em modo leitor]`
-- **Repositorio GitHub do Study Hub:** `[inserir link publico do repositorio]`
+- **Repositorio GitHub do Study Hub:** [github.com/Marichoii/studyhub](https://github.com/Marichoii/studyhub)
 - **Pitch no YouTube:** `[inserir link publico do video horizontal]`
 
 ## Checklist de Conformidade
@@ -89,7 +89,7 @@ Preencher estes links apenas depois de publicar os materiais e testar o acesso e
 - [x] Documento base preparado em Markdown para ser levado ao Google Docs.
 - [x] Roteiro de pitch de ate 5 minutos preparado.
 - [ ] Link publico do Google Docs inserido no documento final.
-- [ ] Link publico do GitHub inserido no documento final.
+- [x] Link publico do GitHub inserido no documento final.
 - [ ] Video horizontal gravado com camera e audio.
 - [ ] Link publico do YouTube inserido no documento final.
 - [ ] Links testados em aba anonima antes da submissao.

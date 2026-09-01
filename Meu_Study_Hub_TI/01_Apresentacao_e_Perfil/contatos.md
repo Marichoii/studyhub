@@ -19,5 +19,5 @@ Esta pagina centraliza os canais que devem aparecer no documento base, no portfo
 
 - Confirmar se o e-mail a ser divulgado sera corporativo, academico ou pessoal.
 - Inserir apenas links publicos e revisados.
-- Inserir o link especifico do repositorio Study Hub quando ele for publicado.
+- Link especifico do repositorio Study Hub: https://github.com/Marichoii/studyhub
 - Testar LinkedIn, GitHub, Google Docs e YouTube em aba anonima antes de entregar o PDF final.
