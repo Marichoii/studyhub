@@ -1,18 +1,14 @@
 # Study Hub TI
 
-Repositorio publico do meu Study Hub TI, criado para organizar minha identidade profissional, disciplinas atuais, entregas academicas, projetos e materiais de portfolio.
+Repositorio publico do meu Study Hub TI, criado para organizar identidade profissional, disciplinas atuais, entregas academicas, projetos e materiais de portfolio.
 
 ## Acesso Rapido
 
-- **Hub principal:** [`Meu_Study_Hub_TI`](./Meu_Study_Hub_TI)
-- **Documentacao final:** [`Documentacao_Final_Study_Hub.md`](./Documentacao_Final_Study_Hub.md)
-- **Roteiro do pitch:** [`Roteiro_Apresentacao_Study_Hub.md`](./Roteiro_Apresentacao_Study_Hub.md)
-- **Checklist de submissao:** [`Checklist_Submissao.md`](./Checklist_Submissao.md)
-- **Perfil e contatos:** [`01_Apresentacao_e_Perfil`](./Meu_Study_Hub_TI/01_Apresentacao_e_Perfil)
-- **Disciplinas atuais:** [`02_Disciplinas_Atuais`](./Meu_Study_Hub_TI/02_Disciplinas_Atuais)
-- **Projetos:** [`03_Projetos`](./Meu_Study_Hub_TI/03_Projetos)
-- **Certificados:** [`04_Certificados`](./Meu_Study_Hub_TI/04_Certificados)
-- **Portfolio:** [`05_Portfolio`](./Meu_Study_Hub_TI/05_Portfolio)
+- **Perfil e contatos:** [`01_Apresentacao_e_Perfil`](./01_Apresentacao_e_Perfil)
+- **Disciplinas atuais:** [`02_Disciplinas_Atuais`](./02_Disciplinas_Atuais)
+- **Projetos:** [`03_Projetos`](./03_Projetos)
+- **Certificados:** [`04_Certificados`](./04_Certificados)
+- **Portfolio:** [`05_Portfolio`](./05_Portfolio)
 
 ## Dados Principais
 
@@ -27,13 +23,30 @@ Repositorio publico do meu Study Hub TI, criado para organizar minha identidade 
 
 O Study Hub centraliza materiais academicos e profissionais em uma estrutura clara, rastreavel e facil de navegar. A organizacao foi planejada para apoiar a entrega inicial do Bootcamp I e servir como base para futuras etapas do portfolio.
 
-## Estrutura
+## Arquitetura de Pastas
 
 ```text
-Meu_Study_Hub_TI/
+studyhub/
 ├── 01_Apresentacao_e_Perfil/
+│   ├── README.md
+│   ├── contatos.md
+│   └── perfil_profissional.md
 ├── 02_Disciplinas_Atuais/
+│   ├── README.md
+│   ├── Bootcamp_I/
+│   ├── Sistemas_Embarcados/
+│   └── Testes_e_Qualidade_de_Software/
 ├── 03_Projetos/
+│   ├── Academicos/
+│   └── Pessoais/
 ├── 04_Certificados/
 └── 05_Portfolio/
 ```
+
+## Disciplinas do Semestre
+
+| Modulo | Disciplina | Foco |
+| :---: | :--- | :--- |
+| 1o modulo | Bootcamp I | Organizacao do Study Hub, arquitetura do repositorio e pitch. |
+| 1o modulo | Sistemas Embarcados | Microcontroladores, sensores, circuitos, IoT e edge computing. |
+| 2o modulo | Testes e Qualidade de Software | Planejamento, automacao e rastreabilidade de testes. |
