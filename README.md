@@ -5,11 +5,8 @@ Repositorio criado para organizar a arquitetura do Study Hub TI, conforme a fase
 ## Identificacao
 
 - **Nome:** Maria Eduarda de Moura Eguchi
-- **Idade:** 22 anos
 - **Curso:** Bacharelado em Ciencia da Computacao
-- **Instituicao:** UniCEUB
-- **Polo:** Asa Norte
-- **Turma:** Manha
+- **Instituicao:** UniCEUB - Asa Norte, Manha
 - **Semestre:** 8o e ultimo semestre
 - **Atuacao profissional:** IBM, time de Client Engineering, como desenvolvedora fullstack
 - **Credenciais:** [Credly](https://www.credly.com/users/maria-eduarda-de-moura-eguchi.dc0f91af)
