@@ -1,31 +1,23 @@
 # Perfil Profissional
 
-## Sobre Mim
+## Identificacao
 
-Sou Maria Eduarda de Moura Eguchi, estudante do 8o semestre de Bacharelado em Ciencia da Computacao no UniCEUB e integrante do time de Client Engineering da IBM. Minha formacao combina fundamentos de computacao com experiencia pratica em desenvolvimento de software, prototipagem, colaboracao tecnica e resolucao de problemas em contextos corporativos.
+- **Nome:** Maria Eduarda de Moura Eguchi
+- **Idade:** 22 anos
+- **Curso:** Bacharelado em Ciencia da Computacao
+- **Instituicao:** UniCEUB
+- **Polo:** Asa Norte
+- **Turma:** Manha
+- **Semestre:** 8o e ultimo semestre
 
-Tenho interesse em construir uma trajetoria que una engenharia de software, pesquisa aplicada e oportunidades internacionais. Por isso, organizo este Study Hub como uma base publica e rastreavel da minha evolucao academica, reunindo disciplinas, projetos, entregas, anotacoes e evidencias de aprendizado.
+## Biografia Academica
 
-## Competencias Tecnicas
+Sou estudante do 8o e ultimo semestre do Bacharelado em Ciencia da Computacao no UniCEUB. Minha trajetoria academica esta ligada ao desenvolvimento de software, organizacao de projetos, documentacao tecnica e aplicacao pratica dos conhecimentos estudados ao longo do curso.
 
-- **Linguagens:** Python, JavaScript, TypeScript, Java, SQL, HTML e CSS.
-- **Desenvolvimento:** Node.js, React, APIs, arquitetura web, versionamento com Git e GitHub.
-- **Cloud e DevOps:** Docker, Kubernetes, CI/CD, fundamentos de cloud computing e boas praticas de deploy.
-- **Qualidade:** planejamento de testes, testes automatizados, criterios de aceitacao, validacao funcional e rastreabilidade.
-- **Sistemas conectados:** fundamentos de microcontroladores, sensores, IoT, edge computing e integracao hardware/software.
-- **Pesquisa e analise:** leitura tecnica, organizacao de evidencias, documentacao, experimentacao e comunicacao de resultados.
+## Atuacao Profissional
 
-## Areas de Interesse
+Trabalho na IBM, no time de Client Engineering, atuando como desenvolvedora fullstack. Essa experiencia complementa minha formacao academica com vivencia em projetos reais, colaboracao tecnica e construcao de solucoes em tecnologia.
 
-- Engenharia de Software e arquitetura de solucoes.
-- Qualidade e confiabilidade de software.
-- IA aplicada, Machine Learning e sistemas de software.
-- Sistemas embarcados, IoT e computacao de borda.
-- HCI e tecnologias centradas em pessoas.
-- Pesquisa internacional em Ciencia da Computacao.
+## Proposito do Study Hub
 
-## Objetivos
-
-- **Curto prazo:** concluir o ultimo semestre com entregas organizadas, claras e alinhadas ao padrao profissional esperado em TI.
-- **Medio prazo:** fortalecer meu portfolio tecnico com projetos documentados, testes, evidencias de aprendizado e materiais que apoiem oportunidades academicas e profissionais.
-- **Longo prazo:** construir uma carreira internacional em tecnologia, preservando tanto a possibilidade de pesquisa academica quanto a atuacao em engenharia de software de alto impacto.
+O Study Hub organiza minha identidade profissional em TI, minhas disciplinas atuais, entregas, anotacoes, projetos e certificados. A proposta e manter uma estrutura clara, publica e facil de navegar no GitHub.

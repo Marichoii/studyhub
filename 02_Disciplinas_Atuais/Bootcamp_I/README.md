@@ -6,9 +6,8 @@ Organizar a base do Study Hub TI, estruturando a identidade profissional, a arqu
 
 ## Materiais
 
-- `Anotacoes`: registros sobre o enunciado, criterios de avaliacao e decisoes de organizacao.
-- `Entregas`: documentos finais, checklist de submissao e evidencias preparadas para avaliacao.
-- `Projetos`: estrutura logica do Hub, roteiro de apresentacao e itens de apoio ao pitch.
+- `Atividades_e_Entregas`: documentos finais, checklist de submissao e evidencias preparadas para avaliacao.
+- `Anotacoes_e_Resumos`: registros sobre o enunciado, criterios de avaliacao e decisoes de organizacao.
 
 ## Relacao com Carreira
 

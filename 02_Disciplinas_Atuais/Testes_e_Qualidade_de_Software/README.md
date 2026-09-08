@@ -6,9 +6,8 @@ Estudar praticas de validacao, planejamento de testes, automacao, rastreabilidad
 
 ## Materiais
 
-- `Anotacoes`: conceitos de testes unitarios, integracao, sistema, aceitacao, TDD, BDD, criterios de qualidade e cobertura.
-- `Entregas`: planos de teste, casos de teste, relatorios de defeitos e evidencias de execucao.
-- `Projetos`: scripts de automacao com ferramentas como PyTest, Jest, Cypress, Selenium ou equivalentes.
+- `Atividades_e_Entregas`: planos de teste, casos de teste, relatorios de defeitos e evidencias de execucao.
+- `Anotacoes_e_Resumos`: conceitos de testes unitarios, integracao, sistema, aceitacao, TDD, BDD, criterios de qualidade e cobertura.
 
 ## Relacao com Carreira
 

@@ -6,9 +6,8 @@ Estudar a integracao entre hardware e software por meio de microcontroladores, s
 
 ## Materiais
 
-- `Anotacoes`: conceitos de microcontroladores, entradas e saidas digitais, sensores, comunicacao e arquitetura de sistemas embarcados.
-- `Entregas`: exercicios, relatorios e evidencias de simulacoes ou montagens.
-- `Projetos`: codigos, circuitos e prototipos usando ambientes como Arduino, ESP32, Wokwi ou TinkerCad.
+- `Atividades_e_Entregas`: exercicios, relatorios e evidencias de simulacoes ou montagens.
+- `Anotacoes_e_Resumos`: conceitos de microcontroladores, entradas e saidas digitais, sensores, comunicacao e arquitetura de sistemas embarcados.
 
 ## Relacao com Carreira
 

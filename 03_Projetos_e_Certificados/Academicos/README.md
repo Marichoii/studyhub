@@ -4,9 +4,9 @@ Espaco dedicado a projetos desenvolvidos para disciplinas, bootcamps, TCC e ativ
 
 ## Projetos Mapeados
 
-| Projeto | Disciplina / Contexto | Status |
-| :--- | :--- | :--- |
-| Study Hub TI - Fase Inicial | Bootcamp I | Em preparacao para submissao |
+| Projeto | Disciplina / Contexto | Resumo | Tecnologias | Link |
+| :--- | :--- | :--- | :--- | :--- |
+| Toque de Mulher | Projeto academico | Projeto academico registrado no Study Hub; o resumo completo deve ser preenchido com base no repositorio oficial. | A confirmar | Link do repositorio a confirmar |
 
 ## Criterios de Organizacao
 
